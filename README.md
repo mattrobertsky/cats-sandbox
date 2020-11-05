@@ -1,4 +1,6 @@
-# Agenda
+# Cats Sandbox
+
+https://github.com/davegurnell/cats-sandbox
 
 ## Monoids
 
